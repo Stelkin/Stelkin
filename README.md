@@ -1,16 +1,24 @@
-### Hi there 👋
+!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            webdev creations
+        </title>
+        <link rel="stylesheet" type="text/css" heref="new folder/style.css">
+    </head>
+    <body>
+        <header>
+            <div class="main">
+                <ul>
+                    <li><a heref=#>Home</a></li>
+                    <li><a heref=#>sevices</a></li>
+                    <li><a heref=#>gallery</a></li>
+                    <li><a heref=#>about</a></li>
+                    <li><a heref=#>contact</a></li>
+                </ul>
+            </div>
+        </header>
+    </body>
 
-<!--
-**Stelkin/Stelkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</html>
